@@ -130,7 +130,7 @@ include_once "header.php";
 
         // set map options
         var myOptions = {
-          zoom: 17,
+          zoom: 12,
           //minZoom: 10,
           center: new google.maps.LatLng(<?= $lat_lng ?>),
           mapTypeId: google.maps.MapTypeId.ROADMAP,
