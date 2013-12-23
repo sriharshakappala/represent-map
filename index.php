@@ -428,7 +428,7 @@ include_once "header.php";
               Array('coworking', 'CNC'),
               Array('investor', 'Conveyors'),
               Array('service', 'Electrical'),
-              Array('hackerspace', 'Electronics')
+              Array('hackerspace', 'Electroplating')
               );
           if($show_events == true) {
             $types[] = Array('event', 'Events');
