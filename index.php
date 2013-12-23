@@ -398,7 +398,8 @@ include_once "header.php";
         <div class="left">
           <div class="logo">
             <a href="./">
-              <img src="images/logo.png" alt="" />
+<!--              <img src="images/logo.png" alt="" />-->
+              <h1 style="color: GrayText">Hosur Made</h1>
             </a>
           </div>
           <div class="buttons">
